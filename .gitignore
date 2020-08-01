@@ -1,6 +1,5 @@
 /dst
 demo
-resources
 examples/
 vendor/
 go.sum
