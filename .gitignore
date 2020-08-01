@@ -1,0 +1,12 @@
+/dst
+demo
+resources
+examples/
+vendor/
+go.sum
+data.txt
+*.log
+upload
+main
+.idea
+
